@@ -1,0 +1,15 @@
+{
+  "uid": "5TIY4UGzLZdvZHn2h3gblEMNdOp1",
+  "name": "o",
+  "email": "o@gmail.com",
+  "chat": [
+    {
+      "connection" : "hieu@gmail.com",
+      "chat_id": "id01"
+    },
+    {
+      "connection" : "h@gmail.com",
+      "chat_id": "id02"
+    }
+  ]
+}

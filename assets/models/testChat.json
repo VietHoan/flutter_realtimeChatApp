@@ -1,0 +1,24 @@
+{
+  "connection": [
+    "hieu@gmail.com",
+    "h@gmail.com"
+  ],
+  "total_chat": 10,
+  "total_read": 8,
+  "total_unread": 2,
+  "chat": [
+    {
+      "sender": "hieu@gmail.com",
+      "receiver" : "h@gmail.com",
+      "message": "from hieu",
+      "isRead": true
+    },
+    {
+      "sender": "h@gmail.com",
+      "receiver" : "hieu@gmail.com",
+      "message": "from h",
+      "isRead": false
+    }
+  ],
+  "lastTime": ""
+}
